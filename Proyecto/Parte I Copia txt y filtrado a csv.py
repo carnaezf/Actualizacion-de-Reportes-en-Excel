@@ -25,18 +25,16 @@ import codecs
 #----------
 # #Definiendo variables.
 # #Carpeta ubicacion txt originales
-carpeta_referencia = r"C:\Users\c_arn\Desktop\Taller Pyday2022\Ubicacion original"
 
-# #Ubicaciones 
-# #Carpeta referencia archivos:
-# carpeta_bases_jobs = r"xxxxxxxx"
+# Crear carpeta Taller Pyday2022 y guardar ahi descarga reeposiutorio, completar xxx con ubicacion local
+carpeta_referencia = r"X:\xxxx\xxxxx\Desktop\Taller Pyday2022\Ubicacion original"
 
-#Carpeta descarga archivos csv:
-# carpeta_bases_csv = rxxxxxx"
 
-carpeta_bases_jobs = r"C:\Users\c_arn\Desktop\Taller Pyday2022\Proyecto\bases_jobs_sap"
+# Crear carpeta Taller Pyday2022 y guardar ahi descarga reeposiutorio, completar xxx con ubicacion local
+carpeta_bases_jobs = r"X:\xxxx\xxxxx\Desktop\Taller Pyday2022\Proyecto\bases_jobs_sap"
 
-carpeta_bases_csv = r"C:\Users\c_arn\Desktop\Taller Pyday2022\Proyecto\bases_csv_automaticas"
+# Crear carpeta Taller Pyday2022 y guardar ahi descarga reeposiutorio, completar xxx con ubicacion local
+carpeta_bases_csv = r"X:\xxxx\xxxxx\Desktop\Taller Pyday2022\Proyecto\bases_csv_automaticas"
 
 #-----
 #Archivos iniciales.
